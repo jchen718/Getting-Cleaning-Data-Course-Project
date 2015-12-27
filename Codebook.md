@@ -4,7 +4,7 @@ This code book explains the data fields in sensor_avg_by_act_sub.txt.
 subject - The ID of the test subject
 activity - The type of activity performed when the corresponding measurements were taken
 
-Measurements
+MEASUREMENTS
 
 tBodyAccMeanX
 
@@ -164,7 +164,7 @@ fBodyBodyGyroJerkMagStd
 
 fBodyBodyGyroJerkMagMeanFreq
 
-Activities
+ACTIVITIES
 
 WALKING (value 1): subject was walking during the test
 
